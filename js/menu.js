@@ -1,4 +1,3 @@
-
 /*
  *Menu for the Admin user interface
  */
